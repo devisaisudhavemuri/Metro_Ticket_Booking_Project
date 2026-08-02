@@ -5,7 +5,7 @@ Automated, accessible, and fast metro ticket generation using **ServiceNow**, po
 
 ![Platform](https://img.shields.io/badge/Platform-ServiceNow-2E7D32?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
 
 ---
 
