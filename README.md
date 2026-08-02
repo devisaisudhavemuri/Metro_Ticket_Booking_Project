@@ -151,8 +151,3 @@ A phased delivery model — Planning → Backend → UI/UX → Testing & Securit
 
 This project successfully demonstrates how the **ServiceNow platform** — typically used for enterprise IT service management — can be extended to build a **citizen-facing digital service** for metro ticket booking. By combining custom data models, automated business rules, a user-friendly Service Portal interface, and dynamic QR code generation, the solution delivers a faster, more accessible, and largely automated ticketing experience compared to traditional counter-based systems.
 
-
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE).
